@@ -1,3 +1,3 @@
 const returnFirstTwoDrivers = function(arr) {
-  let nArr = 
+  return arr.slice(0, 1)
 }
